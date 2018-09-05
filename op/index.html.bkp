@@ -1,0 +1,24 @@
+<html>
+<head>
+<link rel="stylesheet" href="./w3.css" />
+<link rel="stylesheet" href="./main.css" />
+</head>
+<style>
+body, html {
+	height: 100%;
+	margin:0;
+}
+.bg {
+	background-image: url("title.jpeg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+	opacity: 0.7;
+}
+</style>
+<div class="bg">
+<title> One Piece - Fan Club </title>
+</div>
+</body>
+</html>
